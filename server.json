@@ -1,0 +1,8 @@
+{
+  "name": "cost-app-api",
+  "script": "index.js",
+  "instances": "2",
+  "exec_mode": "cluster",
+  "exp_backoff_restart_delay": 100
+
+}
